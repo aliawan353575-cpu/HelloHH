@@ -21,7 +21,7 @@
    > Send > Link icon > copy the URL > paste it below.
    ========================================================== */
 const SITE_CONFIG = {
-  googleFormUrl: "PASTE_YOUR_GOOGLE_FORM_URL_HERE",
+  googleFormUrl: "https://forms.gle/KyXLj6484jxD32F69",
   // OPTIONAL package prefill. Leave "" to skip. To use it: use the full
   // https://docs.google.com/forms/.../viewform link above (not a forms.gle short link),
   // then in the form editor: three-dot menu > "Get pre-filled link", pick a package,
